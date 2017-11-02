@@ -1,3 +1,7 @@
 i want do something
 
 and then i dont want do anything
+
+
+git2 do something
+/usr/bin/bash: wq: command not found
